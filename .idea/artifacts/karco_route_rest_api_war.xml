@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="karco-route-rest-api:war">
+    <output-path>$PROJECT_DIR$/../karco-route-rest-api/target</output-path>
+    <root id="archive" name="karco-route.war">
+      <element id="artifact" artifact-name="karco-route-rest-api:war exploded" />
+    </root>
+  </artifact>
+</component>

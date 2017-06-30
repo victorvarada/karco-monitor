@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="karco-demonstration:war">
+    <output-path>$PROJECT_DIR$/../karco-demonstration/target</output-path>
+    <root id="archive" name="karco-demonstration.war">
+      <element id="artifact" artifact-name="karco-demonstration:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../karco-demonstration/karco-demonstration.iml" filepath="$PROJECT_DIR$/../karco-demonstration/karco-demonstration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/karco-master.iml" filepath="$PROJECT_DIR$/karco-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../karco-monitoring/karco-monitoring.iml" filepath="$PROJECT_DIR$/../karco-monitoring/karco-monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../karco-route-rest-api/karco-route-rest-api.iml" filepath="$PROJECT_DIR$/../karco-route-rest-api/karco-route-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../metrics-spark-master/metrics-spark.iml" filepath="$PROJECT_DIR$/../metrics-spark-master/metrics-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../metrics-spark-receiver-master/metrics-spark-receiver.iml" filepath="$PROJECT_DIR$/../metrics-spark-receiver-master/metrics-spark-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../metrics-spark-reporter-master/metrics-spark-reporter.iml" filepath="$PROJECT_DIR$/../metrics-spark-reporter-master/metrics-spark-reporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spark-jhipster-master/spark-jhipster.iml" filepath="$PROJECT_DIR$/../spark-jhipster-master/spark-jhipster.iml" />
+    </modules>
+  </component>
+</project>

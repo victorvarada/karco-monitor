@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AjcSettings">
+    <option name="ajcPath" value="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.7/aspectjtools-1.8.7.jar" />
+    <option name="cmdLineParams" value="-Xlint:ignore" />
+    <option name="delegateToJavac" value="true" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="karco-demonstration" />
+        <module name="karco-monitoring" />
+        <module name="karco-route-rest-api" />
+        <module name="karcomaster" />
+        <module name="metrics-spark" />
+        <module name="metrics-spark-receiver" />
+        <module name="metrics-spark-reporter" />
+        <module name="spark-jhipster" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="karco-demonstration" target="1.8" />
+      <module name="karco-master" target="1.5" />
+      <module name="karco-monitoring" target="1.5" />
+      <module name="karco-route-rest-api" target="1.8" />
+      <module name="karcomaster" target="1.5" />
+      <module name="metrics-spark" target="1.8" />
+      <module name="metrics-spark-receiver" target="1.8" />
+      <module name="metrics-spark-reporter" target="1.8" />
+      <module name="spark-jhipster" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
